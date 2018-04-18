@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\build\\intermediates\\res\\merged\\debug\\layout\\panodemo_main.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\res\\layout\\panodemo_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\build\\intermediates\\res\\merged\\debug\\layout\\panodemo_list_item.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\res\\layout\\panodemo_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\build\\intermediates\\res\\merged\\debug\\layout\\panodemo_coordinate.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\res\\layout\\panodemo_coordinate.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\build\\intermediates\\res\\merged\\debug\\layout\\panodemo.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\res\\layout\\panodemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\build\\intermediates\\res\\merged\\debug\\layout\\baidupano_photoalbum_container.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\res\\layout\\baidupano_photoalbum_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\build\\intermediates\\res\\merged\\debug\\layout\\baidupano_singlephoto_layout.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\demo\\MyApplication\\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\\res\\layout\\baidupano_singlephoto_layout.xml"
+    }
+]

@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:4:5-40
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+		INJECTED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:12:5-17:39
+	android:largeScreens
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:15:9-38
+	android:resizeable
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:16:9-34
+	android:anyDensity
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:13:9-34
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:24:5-73
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:24:22-70
+application
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:26:5-52:19
+	android:label
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:27:9-69
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:32:9-34:64
+	android:value
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:34:13-61
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:33:13-52
+activity#com.baidu.lbsapi.panodemo.PanoDemoActivity
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:36:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:39:13-45
+	android:configChanges
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:38:13-48
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:37:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:44:27-74
+activity#com.baidu.lbsapi.panodemo.PanoDemoMain
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:47:9-50:20
+	android:screenOrientation
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:49:13-47
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:48:13-66
+activity#com.baidu.lbsapi.panodemo.PanoDemoCoordinate
+ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:51:9-81
+	android:name
+		ADDED from C:\Users\dubo\Desktop\demo\MyApplication\BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample\AndroidManifest.xml:51:19-78
